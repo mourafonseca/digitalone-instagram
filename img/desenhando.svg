@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="92.72155mm"
+   height="196.50526mm"
+   viewBox="0 0 92.72155 196.50526"
+   version="1.1"
+   id="svg873"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="desenhando.svg">
+  <defs
+     id="defs867">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath843">
+      <path
+         id="path845"
+         style="fill:none;stroke:#009c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 319.64124,24.230639 -11.99221,2.841879 -10.12716,5.360957 -6.91761,7.031708 -3.37299,5.280555 -3.02306,10.877496 0.25271,14.483965 -0.96318,663.775861 6.70186,17.20957 7.3922,6.3937 7.03286,5.07399 7.42747,3.63301 288.39531,0.46705 14.51638,-5.28807 6.46388,-4.11766 6.3506,-6.84121 5.50881,-9.91539 v -12.09766 l 0.6543,-672.984374 -5.26923,-13.092969 -7.6253,-8.596485 -7.88086,-5.013671 -5.44575,-2.894825 -6.87444,-1.854754 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="152.95725"
+     inkscape:cy="349.14028"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="731"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.363393,-55.789969)">
+    <image
+       width="920"
+       height="800"
+       preserveAspectRatio="none"
+       xlink:href="file:///tmp/images/image12.png"
+       id="image12"
+       clip-path="url(#clipPath843)"
+       sodipodi:absref="/tmp/images/image12.png"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.6453827,49.449676)" />
+  </g>
+</svg>
